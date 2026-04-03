@@ -53,9 +53,3 @@ The primary goal is to classify Iris flowers into three species (**Setosa, Versi
 - Seaborn  
 
 ---
-
-## 📂 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/iris-flower-classification.git
